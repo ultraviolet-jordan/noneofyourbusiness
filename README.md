@@ -3,4 +3,6 @@ Contributors
 - The Sudden Silent
 - jkm
 - Tannerdino
+- Kris
+- Pazaz
 - Me
